@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>D86AAF48-1CF7-4A77-A50F-B1E3740A07D9</ifid>
+            <format>glulx</format>
+        </identification>
+        <bibliographic>
+            <title>Escape From Farset Labs</title>
+            <author>Ciaran Conliffe</author>
+            <headline>A thrilling tale of derring-do and 3D printers.</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2024</firstpublished>
+            <description>Escape From Farset Labs is a light-hearted short interactive fiction game created as an example for the Northern Ireland Developers Conference 2024. If you've never played a game like this before, the idea is that you type in commands to carry out actions. The aim is to figure out how to repair your bike so you can leave the labs and go home.<br/>This is an alpha build intended only for playtesting.<br/>If you want to play the game, click 'Play In Browser' in the sidebar.<br/>You can also view the source code by clicking 'Source Text', though of course this will spoil the game for you.<br/>If you're completely new to text adventures, check out the postcard or the introductory booklet for an overview. There is also some basic help available within the game itself.</description>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2024-04-11</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2024-04-11</originated>
+        </colophon>
+        <glulx>
+            <serial>240411</serial>
+            <release>1</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+        </glulx>
+    </story>
+</ifindex>
