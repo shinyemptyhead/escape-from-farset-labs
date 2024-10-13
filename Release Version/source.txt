@@ -355,7 +355,7 @@ Help is an action applying to nothing. Understand "help" as help.
 Check help:
 	say "Hello and welcome to ‘Escape From Farset Labs’, a light-hearted short interactive fiction game created as an example for the Northern Ireland Developers Conference 2024. If you’ve never played a game like this before, the idea is that you type in commands to carry out actions. The aim is to figure out how to repair your bike so you can leave the labs and go home. 
 
-If you're completely new to the concept of interactive fiction, then check out the Interactive Fiction Overview linked in the sidebar. There's also an IF Basics one-page guide.
+If you're completely new to the concept of interactive fiction, then there should be an introductory booklet PDF in the same directory as this game that will explain it to you.
 
 Alternatively you can type in ‘help-commands’ to get a list of basic commands, or ‘help-spoiler-commands' to get a list of everything you can do. (As the name suggests, this will spoil a few puzzles.) 
 
@@ -419,5 +419,5 @@ Test fourth with "e / e / e / put repaired lever on bike / u / give resin / d / 
 
 Test me with "test first / test second / test third / test fourth".
 
-Test eggs with "w / n / x skull / get skull / x comics / get comics / s / w / x graffiti / x poster / w / x arena /open door / e / e / e".
+Test eggs with "w / n / x skull / get skull / x comics / get comics / s / w / x graffiti / x poster / w / x arena / e / e / e".
 
