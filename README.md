@@ -12,4 +12,6 @@ A playable version of this game is available on Itchio.
 The font used in the game is [VT323](https://fonts.google.com/specimen/VT323), created by Peter Hull.
 The cover image for the game is by [Wobbly Python](https://bsky.app/profile/wobblypython.bsky.social).
 
+You can check out [my linktree](https://linktr.ee/shinyemptyhead) here.
+
 Escape From Farset Labs was created with <a href="http://inform7.com/">Inform</a> and has IFID D86AAF48-1CF7-4A77-A50F-B1E3740A07D9.
