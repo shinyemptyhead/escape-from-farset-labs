@@ -1,6 +1,6 @@
 # Escape From Farset labs
 
-![cover image for Botanic Panic](https://github.com/shinyemptyhead/escape-from-farset-labs/blob/main//boxart.png?raw=true)
+![cover image for Escape From Farset Labs](https://github.com/shinyemptyhead/escape-from-farset-labs/blob/main/Escape From Farset Labs/boxart.png?raw=true)
 
 Escape From Farset Labs is a light-hearted short interactive fiction game created as an example for the [Northern Ireland Developers Conference 2024](https://www.nidevconf.com). If you've never played a game like this before, the idea is that you type in commands to carry out actions. The aim is to figure out how to repair your bike so you can leave the labs and go home.
 
