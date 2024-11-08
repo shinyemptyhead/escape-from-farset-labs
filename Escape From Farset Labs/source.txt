@@ -74,7 +74,7 @@ At least until you come back here tomorrow, anyway.";
 	
 SECTION 3 - Objects
 
-The player is wearing a backpack. The backpack is closed.
+The player is wearing a backpack. The backpack is closed. The backpack is openable.
 
 The description of the backpack is "It's battered, but you don't go anywhere without it."
 
